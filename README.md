@@ -1,4 +1,4 @@
-﻿# Marlin 3D Printer Firmware
+﻿# Patrick's Meatal A8 Marlin 2 configuration
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)

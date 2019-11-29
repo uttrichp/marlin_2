@@ -5,26 +5,15 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
 
-<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
-
 Hardware used:
 
-BigTreeTech SKR V1.3 mainboard
-
-BigTreeTech TFT 35 V3
-
-GeekPi TMC2208
-
-5 NEMA 17 (two for z-Axis)
-
-Anet A8 Stock direct Extruder
-
-E3D V6 Hotend
-
-[![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
-![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
+* BigTreeTech SKR V1.3 mainboard
+* BigTreeTech TFT 35 V3
+* BLTouch V1 clone
+* GeekPi TMC2208
+* 5 NEMA 17 (two for z-Axis)
+* Anet A8 Stock direct Extruder with MK8 Gear (will be changed to MK7 in future)
+* E3D V6 Hotend
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 

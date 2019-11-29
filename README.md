@@ -3,10 +3,15 @@
 Hardware used:
 
 BigTreeTech SKR V1.3 mainboard
+
 BigTreeTech TFT 35 V3
+
 GeekPi TMC2208
+
 5 NEMA 17 (two for z-Axis)
+
 Anet A8 Stock direct Extruder
+
 E3D V6 Hotend
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)

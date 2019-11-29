@@ -1,5 +1,12 @@
 ﻿# Patrick's 3D printer config for Marlin 2
 
+[![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
+![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
+
+<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+
 Hardware used:
 
 BigTreeTech SKR V1.3 mainboard

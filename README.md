@@ -1,11 +1,13 @@
 ﻿# Patrick's 3D printer config for Marlin 2
 
-## BigTreeTech SKR V1.3 mainboard
-## BigTreeTech TFT 35 V3
-## 4 / 5 GeekPi TMC2208
-## 5 NEMA 17 (two for Z)
-## Anet A8 Stock direct Extruder
-## E3D V6 Hotend
+Hardware used:
+
+BigTreeTech SKR V1.3 mainboard
+BigTreeTech TFT 35 V3
+GeekPi TMC2208
+5 NEMA 17 (two for z-Axis)
+Anet A8 Stock direct Extruder
+E3D V6 Hotend
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)

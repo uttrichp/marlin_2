@@ -1,4 +1,4 @@
-﻿# Patrick's 3D printer config for Marlin 2
+﻿# Patrick's 3D printer config for Marlin 2 Last RC (just as history)
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
